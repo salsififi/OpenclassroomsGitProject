@@ -1,0 +1,12 @@
+*{
+    color: blue;
+    background: pink;
+    font-size: xx-large;
+}
+
+h1{
+    border: 2px black solid;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+}
